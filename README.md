@@ -62,3 +62,49 @@ mkdir store
 - [Chrome Extention](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related)
 
 
+## 2. Interface da aplicação
+
+### Estrutura base da UI
+
+Install the dependencies [Lucide](https://lucide.dev/):
+```sh
+npm i lucide-react
+```
+
+Install the development dependencies [TailwindCSS](https://tailwindcss.com/docs/installation/using-postcss):
+```sh
+npm install -D tailwindcss postcss autoprefixer
+```
+
+Create the "tailwind.config.js" file:
+```sh
+npx tailwindcss init -p
+```
+
+VS Code Extensions:
+- [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+
+### UI dos módulos e player
+
+Install the dependencies:
+```sh
+npm i react-player
+```
+
+### Scrollbar na sidebar
+
+Install the development dependencies:
+```sh
+npm i tailwind-scrollbar -D
+```
+
+### Separando componentes
+
+
+### [Radix Collapsible](https://www.radix-ui.com/primitives/docs/components/collapsible) nos módulos
+
+Install the dependencies:
+```sh
+npm i @radix-ui/react-collapsible
+```

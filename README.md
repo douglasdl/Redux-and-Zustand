@@ -162,6 +162,14 @@ npm i axios
 
 ### Setup do Zustand
 
+- [Jōtai](https://jotai.org/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [Context API](https://legacy.reactjs.org/docs/context.html)
+
+Install the dependencies:
+```sh
+npm i zustand
+```
 
 
 ### Migrando do Redux p/ Zustand

@@ -108,3 +108,65 @@ Install the dependencies:
 ```sh
 npm i @radix-ui/react-collapsible
 ```
+
+## Aplicação com Redux
+
+### Criando reducer do player
+
+
+### Selecionando aula atual
+
+
+### Destacando aula atual
+
+
+
+### Configurando autoplay
+
+
+
+### Criando hook global
+
+
+
+### Criando testes unitários
+Install the development dependencies:
+```sh
+npm i vitest -D
+```
+
+## Conectando à API
+
+### Criando a API de cursos ((JSON Server)[https://github.com/typicode/json-server])
+
+Install the development dependencies:
+```sh
+npm i json-server -D
+```
+
+Install the dependencies:
+```sh
+npm i axios
+```
+
+### Carregando dados do curso
+
+
+### Utilizando Async Thunks
+
+
+### Criando interface de loading
+
+
+## Do Redux ao Zustand
+
+### Setup do Zustand
+
+
+
+### Migrando do Redux p/ Zustand
+
+
+
+### Testes unitários no zustand
+
